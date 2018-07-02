@@ -1,0 +1,8 @@
+.parallax {
+  background: url("http://cdn0.vox-cdn.com/assets/4854598/Derick_E_Hingle-USA_TODAY_Sport_1366x768.png");
+  height: 800px;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+
+}
